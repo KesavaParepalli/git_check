@@ -1,2 +1,0 @@
-username = kesava
-password=jdhch
